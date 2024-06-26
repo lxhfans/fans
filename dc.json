@@ -1,0 +1,27 @@
+//公众号『乐享汇fans』专属接口
+//获取方式:公众号推文结尾直接回复对应关键词即可
+
+//本地包食用方法
+
+//影视仓和猫爪CatBox: 
+//clan://localhost/TVBox/jsm.json(单线路)
+//clan://localhost/TVBox/dc.json(单仓多线路)
+
+//OK影视:
+//file://TVBox/jsm.json(单线路)
+//file://TVBox/dc.json(单仓多线路)
+
+//将本地包解压后放在设备任意目录，然后直接调用json文件即可，上面路径为设备根目录仅供参考。
+
+
+{"urls": [
+
+{"url": "clan://localhost/TVBox/jsm.json","name":"乐享汇fans🛫主力"},
+{"url": "clan://localhost/TVBox/jsm1.json","name":"乐享汇fans🚀备用"},
+{"url": "clan://localhost/TVBox/lvcha.json","name":"乐享汇fans🍵绿茶"}
+
+
+]
+}
+
+
